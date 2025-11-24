@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BGFX_UI_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 201b1f723925b4959b05a24fb24e962b, type: 3}
+    - {fileID: 2800000, guid: e1f3a2295957045ce9ab7c56f7c68a56, type: 3}
+    - {fileID: 2800000, guid: 5f38fcdfd2c254e4d9148b1c2863f4b6, type: 3}
+    - {fileID: 2800000, guid: c3d805538a2e34b8892606a41cde68cc, type: 3}
+    - {fileID: 2800000, guid: 45682d925405149c9a2ad380af93dbd4, type: 3}
+    - {fileID: 2800000, guid: 57ca92ec1bb574064a699e2e7196ab0f, type: 3}
+    - {fileID: 2800000, guid: 209c1d356d3944eef92331179abaef96, type: 3}
+    - {fileID: 2800000, guid: 0868b6bc231774355acc9c153b382c5e, type: 3}
+    - {fileID: 2800000, guid: f36c17ad2f8d24c2abb2463f9704c131, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: BGFX_UI_Atlas
+  m_IsVariant: 0

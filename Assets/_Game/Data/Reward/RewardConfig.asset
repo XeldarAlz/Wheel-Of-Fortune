@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3db24a25179ca413b8cbf15ab94c9c49, type: 3}
+  m_Name: RewardConfig
+  m_EditorClassIdentifier: 
+  _bronzeSlices:
+  - _rewardItem: {fileID: 11400000, guid: 4e659d362e9f44a9d9b17eb053197bca, type: 2}
+    _amount: 88
+  - _rewardItem: {fileID: 11400000, guid: 2dfbbd5032ba94232a09822b46ef149b, type: 2}
+    _amount: 96
+  - _rewardItem: {fileID: 11400000, guid: d593ffda264f34b91a9e09ca38fbd323, type: 2}
+    _amount: 44
+  - _rewardItem: {fileID: 11400000, guid: 07d36a68f25e54a0892b57c3c2713716, type: 2}
+    _amount: 53
+  - _rewardItem: {fileID: 11400000, guid: 126fe8b5bdcc443d0a779ca8c00c0098, type: 2}
+    _amount: 83
+  - _rewardItem: {fileID: 11400000, guid: 94d20b1e602464e15b444f337c3757b1, type: 2}
+    _amount: 67
+  - _rewardItem: {fileID: 11400000, guid: 47979062d55924a8d84e4d59451d1433, type: 2}
+    _amount: 71
+  - _rewardItem: {fileID: 11400000, guid: 33f55c4c535964317913ab631a9eb34c, type: 2}
+    _amount: 0
+  _silverSlices:
+  - _rewardItem: {fileID: 11400000, guid: 70bf741d598454874b4133b0fe32145c, type: 2}
+    _amount: 176
+  - _rewardItem: {fileID: 11400000, guid: 94d20b1e602464e15b444f337c3757b1, type: 2}
+    _amount: 239
+  - _rewardItem: {fileID: 11400000, guid: 9d072c82012ca49ba901b24e87291023, type: 2}
+    _amount: 240
+  - _rewardItem: {fileID: 11400000, guid: 2dfbbd5032ba94232a09822b46ef149b, type: 2}
+    _amount: 102
+  - _rewardItem: {fileID: 11400000, guid: 986aa01db4abf4644b35a74aa6de53d0, type: 2}
+    _amount: 160
+  - _rewardItem: {fileID: 11400000, guid: 70bf741d598454874b4133b0fe32145c, type: 2}
+    _amount: 117
+  - _rewardItem: {fileID: 11400000, guid: 94d20b1e602464e15b444f337c3757b1, type: 2}
+    _amount: 208
+  - _rewardItem: {fileID: 11400000, guid: 9f510611e5b014e7bb48e1ee2b865ed2, type: 2}
+    _amount: 291
+  _superSlices:
+  - _rewardItem: {fileID: 11400000, guid: 2dfbbd5032ba94232a09822b46ef149b, type: 2}
+    _amount: 433
+  - _rewardItem: {fileID: 11400000, guid: aec1f51c9eda04dfc854e5b6e3e16236, type: 2}
+    _amount: 840
+  - _rewardItem: {fileID: 11400000, guid: caa66d29a976c444695042b1b3f87588, type: 2}
+    _amount: 644
+  - _rewardItem: {fileID: 11400000, guid: 07d36a68f25e54a0892b57c3c2713716, type: 2}
+    _amount: 620
+  - _rewardItem: {fileID: 11400000, guid: 94d20b1e602464e15b444f337c3757b1, type: 2}
+    _amount: 615
+  - _rewardItem: {fileID: 11400000, guid: d593ffda264f34b91a9e09ca38fbd323, type: 2}
+    _amount: 784
+  - _rewardItem: {fileID: 11400000, guid: 126fe8b5bdcc443d0a779ca8c00c0098, type: 2}
+    _amount: 400
+  - _rewardItem: {fileID: 11400000, guid: 2dfbbd5032ba94232a09822b46ef149b, type: 2}
+    _amount: 471
+  _bombItem: {fileID: 11400000, guid: 33f55c4c535964317913ab631a9eb34c, type: 2}
